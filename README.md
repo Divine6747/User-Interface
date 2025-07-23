@@ -1,5 +1,5 @@
 # User Interface Project
-This is a final project from my first year in the User Interface module, where we were tasked with designing the UI for an application of our choice. 
+This was the final project from my first year in the User Interface module, where we were tasked with designing the UI for an application of our choice. 
 I chose to create an antivirus application. To make the UI for this Application, I researched various antivirus applications and studied different login/sign-up pages related to and unrelated to applications.
 
 I named it Antivirus Defender (AVD) for short.
